@@ -9,5 +9,5 @@
 ![](/img/Mettas_Portfolio9.png)
   
   <p align="center">
-  <img width="877" height="620" src="/img/Mettas_Portfolio4.png">
+  <img width="877" height="620" src="https://github.com/loukmett/portfolio/blob/main/img/Mettas_Portfolio21.png">
 </p>
