@@ -1,3 +1,8 @@
+body {
+   width:1700px;
+   margin:0 auto;
+}
+
 ![](/img/Mettas_Portfolio.png)
 ![](/img/Mettas_Portfolio2.png)
 ![](/img/Mettas_Portfolio3.png)
