@@ -1,5 +1,6 @@
 #
-![](/img/Mettas_Portfolio.png =1754x1240)
+![](/img/Mettas_Portfolio.png)
+<img src="/img/Mettas_Portfolio.png" width="1240">
 ![](/img/Mettas_Portfolio2.png =1754x1240)
 ![](/img/Mettas_Portfolio3.png =1754x1240)
 ![](/img/Mettas_Portfolio4.png =1754x1240)
