@@ -8,4 +8,4 @@
 ![](/img/Mettas_Portfolio8.png)
 ![](/img/Mettas_Portfolio9.png)
 
-<img src="https://github.com/loukmett/portfolio/blob/main/img/Mettas_Portfolio22.png" width="1597" height="1129" />
+<img src="/img/Mettas_Portfolio22.png" width="1597" height="1129" />
