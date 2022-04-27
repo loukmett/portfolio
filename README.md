@@ -19,3 +19,6 @@
 
 
 <img src="/img/Mettas_Portfolio22.png" width="1597" height="1129" />
+<img src="img/Mettas_Portfolio22.png" width="300">
+<img src="https://github.com/loukmett/portfolio/blob/main/img/Mettas_Portfolio30.png" width="300">
+<img src="/img/Mettas_Portfolio17.png" width="50%" height="50%">
