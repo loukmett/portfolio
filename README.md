@@ -1,4 +1,3 @@
-Loukas Mettas - Selected Works
 ![](/img/Mettas_Portfolio.png)
 ![](/img/Mettas_Portfolio2.png)
 ![](/img/Mettas_Portfolio3.png)
@@ -20,6 +19,14 @@ Loukas Mettas - Selected Works
 
 
 
-<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio18.png" width="2200">
-
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio18.png" width="2000" height="4000">
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio2.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio3.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio4.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio5.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio6.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio7.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio8.png" >
+<img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio9.png" >
 
