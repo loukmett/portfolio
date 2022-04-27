@@ -7,7 +7,5 @@
 ![](/img/Mettas_Portfolio7.png)
 ![](/img/Mettas_Portfolio8.png)
 ![](/img/Mettas_Portfolio9.png)
-  
-  <p align="center">
-  <img width="877" height="620" src="https://github.com/loukmett/portfolio/blob/main/img/Mettas_Portfolio21.png">
-</p>
+
+<img src="https://github.com/loukmett/portfolio/blob/main/img/Mettas_Portfolio22.png" width="1597" height="1129" />
