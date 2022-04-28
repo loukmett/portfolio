@@ -5,12 +5,14 @@
     <meta charset="UTF-8">
    </head>
    <body>
-      
+     
+     <style>
 body {
    width:1700px;
    margin:0 auto;
 }
-
+     </style>
+       
 <img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio.png" >
 <img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio2.png" >
 <img src="https://raw.githubusercontent.com/loukmett/portfolio/main/img/Mettas_Portfolio3.png" >
