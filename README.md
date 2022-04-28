@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>Loukas Mettas 2022 Portfolio</title>
