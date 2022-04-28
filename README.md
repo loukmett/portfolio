@@ -1,6 +1,6 @@
 <html>
   <head>
-     Loukas Mettas 2022 Portfolio
+    <title>Loukas Mettas 2022 Portfolio</title>
    </head>
    <body>
       
