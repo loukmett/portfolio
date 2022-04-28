@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Loukas Mettas 2022 Portfolio</title>
+    <meta charset="UTF-8">
    </head>
    <body>
       
